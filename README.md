@@ -1,7 +1,11 @@
 
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taku10101&theme=github)
+
 <p align="left">
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
