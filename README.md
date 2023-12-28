@@ -1,8 +1,9 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taku10101&theme=github)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taku10101&show_icons=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taku10101&theme=vue)
+
 <p align="left">
 </p>
 
