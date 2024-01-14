@@ -28,7 +28,7 @@
 </h4>
 
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,go,ts,nodejs,nestjs,express,postgres,postman,prisma,py,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,go,ts,nodejs,nestjs,express,postgres,prisma,py,django)](https://skillicons.dev)
 
 
 
@@ -37,4 +37,4 @@
 </h4>
 
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,supabase,vercel,webpack,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,supabase,vercel,webpack,docker,postman)](https://skillicons.dev)
