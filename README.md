@@ -19,7 +19,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,graphql,apollo,sass,tailwind,materialui,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,graphql,apollo,sass,tailwind,materialui)](https://skillicons.dev)
 
 
 
@@ -28,7 +28,7 @@
 </h4>
 
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,go,ts,nodejs,nestjs,express,postgres,prisma,py,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,postgres,prisma,ruby,rails,py,django)](https://skillicons.dev)
 
 
 
