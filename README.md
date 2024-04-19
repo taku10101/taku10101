@@ -4,7 +4,7 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taku10101&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taku10101&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taku10101&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taku10101&theme=github)
 
 
