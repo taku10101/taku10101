@@ -44,5 +44,8 @@
 Contributing
 </h3>
 <a href="https://github.com/yamada-ui/yamada-ui" >
-yamadaUI  
+yamada-ui
+</a>
+<a href="https://github.com/yamada-ui/yamada-docs" >
+yamada-docs  
 </a>
