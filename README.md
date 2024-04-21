@@ -1,12 +1,10 @@
 <h3>
   Activity
 </h3>
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taku10101&theme=github)
+  
+![](https://github-readme-stats.vercel.app/api?username=taku10101&theme=github&show_icons=ture)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taku10101&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taku10101&theme=github)
-
 
 <h3>
   Stacks
