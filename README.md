@@ -46,9 +46,5 @@ Contributing
 yamada-ui
 </a>
 </div>
-<div>
-<a href="https://github.com/yamada-ui/yamada-docs" >
-yamada-docs  
-</a>
-</div>
+
 
