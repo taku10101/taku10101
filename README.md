@@ -26,7 +26,7 @@
 </h4>
 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,go,postgres,prisma,ruby,rails,py,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,kotlin,go,postgres,prisma,ruby,rails,py,django)](https://skillicons.dev)
 
 
 
