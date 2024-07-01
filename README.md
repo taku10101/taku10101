@@ -41,13 +41,16 @@
 <h3>
 Contributing
 </h3>
-<div>
+
 <a href="https://github.com/yamada-ui/yamada-ui" >
+<p>
 yamada-ui
+</p>
 </a>
+  
 <a href="https://github.com/yamada-ui/yamada-components" >
-yamada-components
+<p>
+yamada-components</p>
 </a>
-</div>
 
 
