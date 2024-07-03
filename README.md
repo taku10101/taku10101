@@ -43,14 +43,18 @@ Contributing
 </h3>
 
 <a href="https://github.com/yamada-ui/yamada-ui" >
-<p>
-yamada-ui
-</p>
+  <p>
+    yamada-ui
+  </p>
 </a>
   
 <a href="https://github.com/yamada-ui/yamada-components" >
-<p>
-yamada-components</p>
+  <p>
+    yamada-components
+  </p>
 </a>
 
+<a href="https://github.com/nextauthjs/next-auth" >
+<p>next-auth</p>
+</a>
 
