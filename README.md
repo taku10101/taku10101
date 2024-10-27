@@ -2,9 +2,11 @@
   Activity
 </h3>
   
-![](https://github-readme-stats.vercel.app/api?username=taku10101&theme=github&show_icons=ture)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taku10101&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taku10101&theme=github)
+![](https://github-readme-stats.vercel.app/api?username=taku10101&theme=onedark&show_icons=ture)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taku10101&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=taku10101&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [Qiita](https://qiita.com/dimyasvariant) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=taku10101&theme=onedark&hide_border=false)
 
 <h3>
   Stacks
